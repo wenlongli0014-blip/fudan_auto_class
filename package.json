@@ -1,6 +1,6 @@
 {
   "name": "fudan-auto-class",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": true,
   "description": "复旦研究生选课 Chrome 扩展（页面适配版）",
   "scripts": {
